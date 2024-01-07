@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Jan 06 19:01:12 MST 2024","Sat Jan 06 19:01:13 MST 2024","1677","","My Login application","","","","should login with valid credentials",""
+"broken","Sat Jan 06 14:38:26 MST 2024","Sat Jan 06 14:38:27 MST 2024","358","","My Login application","","","","log out frm the home page",""
+"passed","Sat Jan 06 19:01:12 MST 2024","Sat Jan 06 19:01:13 MST 2024","1250","","count all links on then main pages","","","","Count all links",""
+"passed","Sat Jan 06 19:01:13 MST 2024","Sat Jan 06 19:01:13 MST 2024","210","","My Login application","","","","log out from the home page",""
+"passed","Sat Jan 06 19:01:12 MST 2024","Sat Jan 06 19:01:18 MST 2024","6374","","Dynamic Loading pages","","","","Loading validation",""
